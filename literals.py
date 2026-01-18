@@ -2,6 +2,9 @@
 int
 
 None
+import math
+
+0.001
 
 ## comments
 
@@ -10,4 +13,4 @@ None
 
 
 pass
-print("Hello, world")
+print("Hello, world!")
